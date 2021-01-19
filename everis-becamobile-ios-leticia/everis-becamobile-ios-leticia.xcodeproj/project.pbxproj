@@ -22,6 +22,7 @@
 		FCF025A725A8E5CF005FA869 /* TendenciaCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF025A625A8E5CF005FA869 /* TendenciaCollectionViewCell.swift */; };
 		FCF025A925A8EB92005FA869 /* DetalhesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF025A825A8EB92005FA869 /* DetalhesViewController.swift */; };
 		FCF025AB25AA287D005FA869 /* DetalhesDAO.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF025AA25AA287D005FA869 /* DetalhesDAO.swift */; };
+		FCF72F7A25B74CEE00DCF76E /* Accessibility+.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF72F7925B74CEE00DCF76E /* Accessibility+.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		FCF025A625A8E5CF005FA869 /* TendenciaCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TendenciaCollectionViewCell.swift; sourceTree = "<group>"; };
 		FCF025A825A8EB92005FA869 /* DetalhesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesViewController.swift; sourceTree = "<group>"; };
 		FCF025AA25AA287D005FA869 /* DetalhesDAO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesDAO.swift; sourceTree = "<group>"; };
+		FCF72F7925B74CEE00DCF76E /* Accessibility+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Accessibility+.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				FCF025A625A8E5CF005FA869 /* TendenciaCollectionViewCell.swift */,
 				FCF025A825A8EB92005FA869 /* DetalhesViewController.swift */,
 				FCD16F9125ACA50100315F42 /* FilmesTendenciaViewController.swift */,
+				FCF72F7925B74CEE00DCF76E /* Accessibility+.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 				FCF0256A25A89061005FA869 /* everis_becamobile_ios_leticia.xcdatamodeld in Sources */,
 				FCF025A725A8E5CF005FA869 /* TendenciaCollectionViewCell.swift in Sources */,
 				FCF025AB25AA287D005FA869 /* DetalhesDAO.swift in Sources */,
+				FCF72F7A25B74CEE00DCF76E /* Accessibility+.swift in Sources */,
 				FCD16F9225ACA50100315F42 /* FilmesTendenciaViewController.swift in Sources */,
 				FC86617E25AF2B6100A2336D /* FilmeService.swift in Sources */,
 				FCF0257B25A894D8005FA869 /* TendenciaDAO.swift in Sources */,

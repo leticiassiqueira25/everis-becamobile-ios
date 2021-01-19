@@ -69,5 +69,4 @@ class FilmesTendenciaViewController: UIViewController, UICollectionViewDataSourc
         detalhesViewController.tendencia = tendenciaSelecionada
     }
     
-
 }

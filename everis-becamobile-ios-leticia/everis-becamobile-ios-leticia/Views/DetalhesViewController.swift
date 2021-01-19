@@ -59,6 +59,9 @@ class DetalhesViewController: UIViewController {
             self.capaImagem.layer.cornerRadius = 10
             self.capaImagem.layer.masksToBounds = true
         }
+        
+        setAccessibility()
+        
     }
     
 }
